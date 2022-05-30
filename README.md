@@ -1,4 +1,3 @@
-# console_account_financial
+# concole_app
 Study assignment.
 Console application for accounting for household finances.
-# concole_app
